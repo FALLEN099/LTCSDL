@@ -1,0 +1,10 @@
+D:\PhamDuongAn_0005\PhamDuongAn_0005\bin\Debug\PhamDuongAn_0005.exe.config
+D:\PhamDuongAn_0005\PhamDuongAn_0005\bin\Debug\PhamDuongAn_0005.exe
+D:\PhamDuongAn_0005\PhamDuongAn_0005\bin\Debug\PhamDuongAn_0005.pdb
+D:\PhamDuongAn_0005\PhamDuongAn_0005\obj\Debug\PhamDuongAn_0005.csproj.AssemblyReference.cache
+D:\PhamDuongAn_0005\PhamDuongAn_0005\obj\Debug\PhamDuongAn_0005.Properties.Resources.resources
+D:\PhamDuongAn_0005\PhamDuongAn_0005\obj\Debug\PhamDuongAn_0005.SanPham.resources
+D:\PhamDuongAn_0005\PhamDuongAn_0005\obj\Debug\PhamDuongAn_0005.csproj.GenerateResource.cache
+D:\PhamDuongAn_0005\PhamDuongAn_0005\obj\Debug\PhamDuongAn_0005.csproj.CoreCompileInputs.cache
+D:\PhamDuongAn_0005\PhamDuongAn_0005\obj\Debug\PhamDuongAn_0005.exe
+D:\PhamDuongAn_0005\PhamDuongAn_0005\obj\Debug\PhamDuongAn_0005.pdb
